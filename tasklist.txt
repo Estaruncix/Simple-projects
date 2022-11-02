@@ -1,0 +1,14 @@
+Practicas: 
+
+ANCOM-MT2G
+
+Comenzar a buscar articulos
+
+guardar habilidades de aplicaciones en xcel
+
+Buscar empresas para 2nd TFM
+
+Personal Projects:
+
+Finish Pycharm/Django class
+
